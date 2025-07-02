@@ -1935,21 +1935,14 @@ streamlit run app.py
 - 最近の記録の確認
 - デスノートのルール説明
 
-**2. 統計ページ（pages/1_statistics.py）**
-
-- 総犠牲者数、心臓麻痺率などの基本統計
-- 死因別の円グラフ
-- キラ別の活動統計
-- データの可視化
-
-**3. 死神の目ページ（pages/2_shinigami_eyes.py）**
+**2. 死神の目ページ（shinigami_eyes.py）**
 
 - 死神の目の取引機能
 - 顔写真から人物を識別
 - 寿命の統計表示
 - 年齢層別分布グラフ
 
-**4. SQL学習ページ（pages/3_sql_learning.py）**
+**4. SQL学習ページ（sql_learning.py）**
 
 - 基礎編：SELECT、WHERE、ORDER BYの練習
 - 中級編：JOIN、GROUP BYの練習
